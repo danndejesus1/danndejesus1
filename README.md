@@ -1,48 +1,13 @@
 
+coding is suffering<br>
 
-**your mom**
+# Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/danndejesus1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:comeforthstratos@gmail.com) 
 
-## 🔝 Most Used Languages
+# Tech Stack:
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=plastic&logo=jasmine&logoColor=white)
+# GitHub Stats:
 
-<!-- ⚠️ Important: Replace 'danndejesus1' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danndejesus1&layout=compact&langs_count=10&theme=default"/>
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danndejesus1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> 
-
-### 📱 Mobile
-
-<img src="https://img.shields.io/badge/Kotlin-3CB371?style=for-the-badge&logo=kotlin&logoColor=white" /> 
-
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](in/danndejesus1) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/danndejesus1) 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="left">
-
-📧 **Email:** [danndejesus1@gmail.com](mailto:danndejesus1@gmail.com)
-
-</div>
-
----
-⭐️ From [Dann De Jesus](https://github.com/danndejesus1)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/danndejesus1/count.svg" alt="Visitor Count" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
