@@ -1,11 +1,48 @@
-# 💫 About Me:
-🔭 I’m currently working on: Polishing my JavaScript knowledge, and utilizing AI as a tool for learning<br>🌱 I’m currently learning: Python<br>⚡ Fun fact: I once did a project within a single day
+# Hi 👋, I'm Dann De Jesus
 
+**your mom**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dnnje) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danntu__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danndejesus1)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ssjewel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danndejesus1@gmail.com) 
+## 🔝 Most Used Languages
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+<!-- ⚠️ Important: Replace 'danndejesus1' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danndejesus1&layout=compact&langs_count=10&theme=default"/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> 
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/Kotlin-3CB371?style=for-the-badge&logo=kotlin&logoColor=white" /> 
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](in/danndejesus1) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/danndejesus1) 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="left">
+
+📧 **Email:** [danndejesus1@gmail.com](mailto:danndejesus1@gmail.com)
+
+</div>
+
+---
+⭐️ From [Dann De Jesus](https://github.com/danndejesus1)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/danndejesus1/count.svg" alt="Visitor Count" />
+</div>
